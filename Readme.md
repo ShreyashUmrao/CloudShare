@@ -22,37 +22,37 @@ Django
 Django REST Framework
 SimpleJWT
 Cloudflare R2 / AWS S3 (via django-storages)
-
-Frontend
-React (Vite)
-Axios
-TailwindCSS
-
-
-Running the Project Locally
-
-Backend Setup
-cd backend
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-
-Backend will run at:
-http://127.0.0.1:8000
-
-Frontend Setup
-cd frontend
-npm install
-npm run dev
-
-Frontend will run at:
-http://127.0.0.1:5173
-
-
-Deployment
-
-CloudShare is designed to be deployment-ready:
-Works with Docker (if added)
-Supports R2/S3 storage
-Environment-based configuration
-Stateless JWT authentication
+  
+Frontend  
+React (Vite)  
+Axios  
+TailwindCSS  
+  
+  
+Running the Project Locally  
+  
+Backend Setup  
+cd backend  
+pip install -r requirements.txt  
+python manage.py migrate  
+python manage.py runserver  
+  
+Backend will run at:  
+http://127.0.0.1:8000  
+  
+Frontend Setup  
+cd frontend  
+npm install  
+npm run dev  
+  
+Frontend will run at:  
+http://127.0.0.1:5173  
+  
+  
+Deployment  
+  
+CloudShare is designed to be deployment-ready:  
+Works with Docker (if added)  
+Supports R2/S3 storage  
+Environment-based configuration  
+Stateless JWT authentication  
