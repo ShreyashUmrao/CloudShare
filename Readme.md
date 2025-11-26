@@ -26,7 +26,7 @@ Cloudflare R2 / AWS S3 (via django-storages)
 Frontend  
 React (Vite)  
 Axios  
-TailwindCSS  
+TailwindCSS  <br><br>
   
   
 Running the Project Locally  
@@ -46,7 +46,7 @@ npm install
 npm run dev  
   
 Frontend will run at:  
-http://127.0.0.1:5173  
+http://127.0.0.1:5173  <br><br>
   
   
 Deployment  
