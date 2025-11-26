@@ -12,7 +12,7 @@ Public Share Links — easily share files through generated URLs
 Analytics Dashboard — view upload statistics & user activity  
 Cloud Storage Support — works with Cloudflare R2 / AWS S3 via Django Storages  
 Modern Frontend — React + Vite + Tailwind CSS  
-Clean API Architecture — structured Django apps (api, files, analytics)  <br><br>
+Clean API Architecture — structured Django apps (api, files, analytics)  <br><br><br><br>
   
   
 Tech Stack  
@@ -26,7 +26,7 @@ Cloudflare R2 / AWS S3 (via django-storages)
 Frontend  
 React (Vite)  
 Axios  
-TailwindCSS  <br><br>
+TailwindCSS  <br><br><br><br>
   
   
 Running the Project Locally  
@@ -46,7 +46,7 @@ npm install
 npm run dev  
   
 Frontend will run at:  
-http://127.0.0.1:5173  <br><br>
+http://127.0.0.1:5173  <br><br><br><br>
   
   
 Deployment  
