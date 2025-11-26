@@ -1,7 +1,7 @@
 CloudShare  
   
 A modern, full-stack cloud storage and file-sharing platform built with Django REST Framework and React (Vite).
-CloudShare allows users to securely upload files, manage them efficiently, analyze usage, and share content publicly.<br><br>
+CloudShare allows users to securely upload files, manage them efficiently, analyze usage, and share content publicly.<br><br><br><br>
   
   
 Features  
