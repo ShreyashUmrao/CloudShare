@@ -17,13 +17,13 @@ Clean API Architecture — structured Django apps (api, files, analytics)  <br><
   
 Tech Stack  
   
-Backend  
+Backend:  
 Django  
 Django REST Framework  
 SimpleJWT  
 Cloudflare R2 / AWS S3 (via django-storages)  
   
-Frontend  
+Frontend:  
 React (Vite)  
 Axios  
 TailwindCSS  <br><br><br><br>
@@ -31,7 +31,7 @@ TailwindCSS  <br><br><br><br>
   
 Running the Project Locally  
   
-Backend Setup  
+Backend Setup:  
 cd backend  
 pip install -r requirements.txt  
 python manage.py migrate  
@@ -40,7 +40,7 @@ python manage.py runserver
 Backend will run at:  
 http://127.0.0.1:8000  
   
-Frontend Setup  
+Frontend Setup:  
 cd frontend  
 npm install  
 npm run dev  
