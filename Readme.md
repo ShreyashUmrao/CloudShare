@@ -1,14 +1,14 @@
-CloudShare  
+**CloudShare**  
   
 A modern, full-stack cloud storage and file-sharing platform built with Django REST Framework and React (Vite).
 CloudShare allows users to securely upload files, manage them efficiently, analyze usage, and share content publicly.<br><br><br><br>
 
-Demo
+**Demo**
 
 Live Demo: https://cloudshare.up.railway.app<br><br><br><br>
   
   
-Features  
+**Features**  
   
 User Authentication (JWT) — secure login, registration, token refresh  
 File Upload & Management — upload, list, download, delete files  
@@ -19,7 +19,7 @@ Modern Frontend — React + Vite + Tailwind CSS
 Clean API Architecture — structured Django apps (api, files, analytics)  <br><br><br><br>
   
   
-Tech Stack  
+**Tech Stack**  
   
 Backend:  
 Django  
@@ -33,7 +33,7 @@ Axios
 TailwindCSS  <br><br><br><br>
   
   
-Running the Project Locally  
+**Running the Project Locally**  
   
 Backend Setup:  
 cd backend  
@@ -53,7 +53,7 @@ Frontend will run at:
 http://127.0.0.1:5173  <br><br><br><br>
   
   
-Deployment  
+**Deployment**  
   
 CloudShare is designed to be deployment-ready:  
 Works with Docker (if added)  
